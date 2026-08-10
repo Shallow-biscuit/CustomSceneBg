@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(CustomSceneBg.Main), "CustomSceneBg", "2.0.0", "Biscuit_QZ")]
+[assembly: MelonInfo(typeof(CustomSceneBg.Main), "CustomSceneBg", "2.0.2", "Biscuit_QZ")]
 [assembly: MelonGame("PeroPeroGames", "MuseDash")]
 
 [assembly: AssemblyTitle("$safeprojectname$")]

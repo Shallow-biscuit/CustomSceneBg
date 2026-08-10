@@ -68,7 +68,21 @@ bg.png
 UserData/CustomSceneBg/scene_02/bg.png
 
 如果对应场景文件夹中不存在 bg.png，
-则游戏将自动使用原版场景背景。"
+则游戏将自动使用原版场景背景。
+以下是每个代号所代表的场景：
+scene_01：太空
+scene_02：都市
+scene_03：城堡
+scene_04：雨夜街道
+scene_05：糖果森林
+scene_06：和风
+scene_07：节奏过山车
+scene_08：车万
+scene_09：DJMAX
+scene_10：初音未来
+scene_11：24愚人节（不可用，ppg这边占了一个场景位置
+scene_12：国风
+"
                 );
             }
 
